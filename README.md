@@ -1,16 +1,14 @@
-### Hi there 👋
+## ninomae42 (Takuma Shimizu)
 
-<!--
-**ninomae42/ninomae42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <p align="left"> 
+    <img alt="github stats" height="200px" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninomae42&theme=tokyonight" />
+  </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+    <p align="center"> 
+      <img alt="github stats" height="200px"src="https://github-readme-stats.vercel.app/api?username=ninomae42&theme=tokyonight&show_icons=true" />
+      <img alt="Top Langs" height="200px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninomae42&theme=tokyonight" />
+    </p>
+  </div>
+</div>
